@@ -1,3 +1,3 @@
-El contenido del repositorio es el de una práctica de Git en el que pondremos en practica comandos de Git básicos.
+Merequetengue
 
 Hecho por Manuel Martínez Ruiz.
